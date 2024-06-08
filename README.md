@@ -10,7 +10,7 @@
 
 </br>
 
-# 유스케이스 설계
+# ✒️ 유스케이스 설계
 <img width="370" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/bca566c2-06cd-4004-b61f-d0db46e241e4">
 <img width="370" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/efae71cf-3d8f-409f-8369-06bcbf3bc403">
 
@@ -18,7 +18,7 @@
 
 </br>
 
-# ERD 설계
+# 🗄️ ERD 설계
 <img width="500" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/aadb0b36-39a7-4c86-8b79-5e9f24458b4a">
 
 
