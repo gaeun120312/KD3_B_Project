@@ -85,7 +85,24 @@
 
 </br>
 
+- 행사 / 펀딩 개설 화면
+<img width="350" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/e0e55659-8559-4d0b-a51d-eee9f931ea62">
+<img width="350" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/13e3f35d-b19c-4bbe-bfb8-3fbfd8aa8d72">
 
+</br>
+
+-> 인증받은 관계자는 행사나 펀딩 정보를 알려주는 프로젝트를 개설할 수 있음
+
+</br>
+
+- Q&A / 공지사항 화면
+<img width="500" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/9b3c3ee1-9592-42dd-9d8b-6198181f6a6c">
+<img width="500" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/02eccdf7-d09c-4f46-a582-d7e95ed304d2">
+
+
+</br>
+
+  
 # ❗ 느낀점
 
 
