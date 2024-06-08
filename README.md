@@ -1,14 +1,24 @@
-# KD3_B_Project
-ㅁ
--- Verison
-java jdk 17
-spring version 3.2.3
+# 🌳 EVENTREE (이벤트리)
+- KD3 과정 중 진행하였던 1차 팀 프로젝트
+- 기업 행사 정보와 예술인 펀딩 정보를 알려주는 웹사이트
 
--- Tools
-Spring Boot DevTools
-Lombok
-H2 Database
-MySQL Driver
-Spring Security
-Thymeleaf
-Spring Web
+</br>
+
+# 🎯 목표
+-
+-
+
+</br>
+
+# ✔️​ 주요 기능
+
+</br>
+
+# 🔳​ View
+
+</br>
+
+# ❗ 느낀점
+
+
+
