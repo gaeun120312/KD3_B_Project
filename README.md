@@ -44,6 +44,8 @@
 
 </br>
 
+</br>
+
 - 기업 행사 계시물 상세 화면
 <img width="600" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/baa80d08-6ace-4bd9-b0f1-091c7304a977">
 
@@ -62,15 +64,27 @@
 
 </br>
 
-
-
-
-
-
+- 마이 페이지 상세 화면 : 관심 목록, 내 정보 수정 페이지
+<img width="400" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/df54e43d-0e5c-42a0-af48-5870ca6578c5">
+<img width="400" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/9362b8d8-cd13-4482-b4f9-8958e615e601">
 
 </br>
 
+-> 관심 목록 삭제 / 닉네임, 비밀번호 변경,  회원 탈퇴 기능
+
 </br>
+
+- 마이 페이지 상세 화면 : 관계자 인증 페이지
+<img width="400" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/9ad8530b-4351-46cc-b059-9857b9b3e470">
+<img width="300" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/5f00f1b3-3ded-4c97-855a-64f11f09b7a0">
+<img width="500" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/64ec86dd-b1df-4ee3-b5c7-3e1b2d724cb6">
+
+</br>
+
+-> 기업인이나 예술인이 관계자 인증 페이지에서 인증을 한 후 관리자는 직접 관계자 인증 승인/거절 진행
+
+</br>
+
 
 # ❗ 느낀점
 
