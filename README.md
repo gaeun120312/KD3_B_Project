@@ -26,9 +26,47 @@
 
 </br>
 
-# ✔️​ 주요 기능 & View
+# ✔️​ 주요 기능 & 화면
+- 메인 화면
+<img width="600" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/585e6cd4-7bef-45df-a15e-9b7127b9dcd6">
+
+<img width="600" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/9fe602db-5203-4c56-b21f-d6c307b5b58c">
+
+</br>
+
+-> 추천순, 최신순, 마감순으로 행사 나열
+
+</br>
+
+- 로그인 화면 
 <img width="200" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/68bb693d-0a80-4fef-97e0-0395337fcdc4">
 <img width="250" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/4b586824-9b86-4dc7-9697-6aa61dc4b669">
+
+</br>
+
+- 기업 행사 계시물 상세 화면
+<img width="600" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/baa80d08-6ace-4bd9-b0f1-091c7304a977">
+
+</br>
+
+-> 게시물 수정, 삭제, 행사 기간, 조회수, 관심 목록, 행사 사이트 바로 연결 가능
+
+</br>
+
+- 예술인 펀딩 연결 게시물 상세 화면
+<img width="600" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/55ab2d01-d9f2-4ee5-b603-1cf234cc93fe">
+
+</br>
+
+-> 게시물 수정, 삭제, 펀 기간, 조회수, 관심 목록, 펀딩 사이트 바로 연결 가능
+
+</br>
+
+
+
+
+
+
 
 </br>
 
