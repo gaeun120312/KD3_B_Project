@@ -18,6 +18,14 @@
 
 </br>
 
+# 🗄️ 인터페이스 설계
+![인터페이스-메인](https://github.com/user-attachments/assets/3058c465-0916-41a1-b852-757e6e73fb97)
+![인터페이스-회원가입](https://github.com/user-attachments/assets/4f799b00-aa59-400f-a87d-75d3fa4afbb8)
+![인터페이스-로그인](https://github.com/user-attachments/assets/83d22cff-30de-4448-9c83-4f663ad66d91)
+![인터페이스-마이페이지](https://github.com/user-attachments/assets/fd34eec6-aefa-4235-9a74-f6cab17d97df)
+![관리자 인터페이스](https://github.com/user-attachments/assets/98e2e748-b445-4b98-b494-d2c1721b7398)
+
+
 # 🗄️ ERD 설계
 <img width="500" alt="image" src="https://github.com/gaeun120312/KD3_B_Project/assets/92353486/aadb0b36-39a7-4c86-8b79-5e9f24458b4a">
 
